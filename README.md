@@ -60,7 +60,6 @@ After you're finished please remove all the comments and instructions!
 # 📖 My Enumerable <a name="about-project"></a>
 
 > My Enumerable is my first project in ruby prgramming language and it uses modules.
-**My Enumerable** is the ruby methods project that uses modules.
 
 ## 🛠 Built With <a name="built-with"></a>
 
