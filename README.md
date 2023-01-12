@@ -93,9 +93,10 @@ After you're finished please remove all the comments and instructions!
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
-
-- **Decode Morse Messages**
-- **Using hashes to perform the operations**
+- We used module for implemtnting the following methods. 
+- **All**
+- **Any**
+- **Filter**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -181,8 +182,8 @@ You can deploy this project using:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] - **Decode Morse Messages**
-- [ ]  **Using hashes to perform the operations**
+- [ ] - **Adding None methods**
+- [ ]  **Adding more nested modules**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
