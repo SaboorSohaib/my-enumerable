@@ -59,7 +59,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 My Enumerable <a name="about-project"></a>
 
-> My Enumerable is my first project in ruby prgramming language and it uses modules.
+> My Enumerable is my second project in ruby prgramming language and it uses modules.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -93,7 +93,7 @@ After you're finished please remove all the comments and instructions!
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
-- We used module for implemtnting the following methods. 
+- **We used module for implemtnting the following methods.**
 - **All**
 - **Any**
 - **Filter**
@@ -183,7 +183,7 @@ You can deploy this project using:
 > Describe 1 - 3 features you will add to the project.
 
 - [ ] - **Adding None methods**
-- [ ]  **Adding more nested modules**
+- [ ] - **Adding more nested modules**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
